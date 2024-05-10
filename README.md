@@ -173,7 +173,7 @@ Example :
 
 - CRISP-DM Process of Supermarket Sales Analysis
 
-<div align="center"><img src="" />https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics3/CRISP-DM%20EDA.png</div>
+<div align="center"><img src="https://github.com/sisatput/LearnPythonImg/blob/main/DataAnalytics3/CRISP-DM%20EDA.png"/></div>
 That was a example of CRISP-DM process. in Explaratary Data Analysis from Business Understanding.
 
 Full CRISP-DM process can be seen in the file [CRISP-DM]().
